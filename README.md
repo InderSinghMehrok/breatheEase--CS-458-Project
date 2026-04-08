@@ -3,7 +3,7 @@
 A VR meditation app for Meta Quest 2 built in Unity 6.
 
 ## Experiences
-- 🧘 Guided Meditation — Forest environment with voiceover
+- 🧘 Guided Meditation — Open Forest environment with voiceover
 - 🌬️ Box Breathing — Japanese island breathing exercises  
 - 🏔️ Yoga — Mountain sun salutation sequence
 - 🌿 Qigong — Flowing movement session
@@ -11,14 +11,14 @@ A VR meditation app for Meta Quest 2 built in Unity 6.
 ## Requirements
 - Unity 6000.3.10f1
 - Meta XR SDK
-- DOTween
 - Meta Quest 2
 
 ## Installation
-See Stillness.apk — sideload via SideQuest
+Download Project To Unity and Build
 
 ## Team
-- Meditation Scene — [your name]
-- Breathing Scene — [name]
-- Yoga Scene — [name]  
-- Qigong Scene — [name]
+- MainMenu Scene — Pushpinder Singh
+- Meditation Scene — Pushpinder Singh
+- Breathing Scene — Nicholas Fuzesy
+- Yoga Scene — João Pedro Tiellet Demari
+- Qigong Scene — Estefania Hernandez Duran
