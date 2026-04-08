@@ -6,10 +6,22 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/SampleScene.unity
+    path: Assets/Scenes/MainMenuScene.unity
+    guid: 19a7a11ac54e8314c84677ccf9a41aac
+  - enabled: 1
+    path: Assets/Scenes/Meditation_Scene.unity
     guid: 99c9720ab356a0642a771bea13969a05
+  - enabled: 1
+    path: Assets/Scenes/BoxBreathing.unity
+    guid: 9f35e9e7ede8ee04496cb0a34a71978b
+  - enabled: 1
+    path: Assets/Scenes/Yoga.unity
+    guid: 755df545e8a934248b6fd2da59493f05
+  - enabled: 1
+    path: Assets/Scenes/QiGong.unity
+    guid: 6a0964743c47fbb4db68cf9266005442
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
-    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: aa9a6c1c48c124243b3508b4c7ae9d20, type: 2}
-    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: c07ab67f49ec1634c977fde6cf9f358c, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 6adced4f0799e4d2d9491c8f4ecbb20f, type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 1bc37aab4a2af449f92a1c023983f7a0, type: 2}
   m_UseUCBPForAssetBundles: 0
